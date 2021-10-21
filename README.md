@@ -1,2 +1,2 @@
-# GRIP4
+# GRIP
 GRIP
